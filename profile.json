@@ -1,0 +1,9 @@
+{
+    "name": "Jan Novák",
+    "skills": ["PHP", "HTML", "CSS", "Git", "MySQL"],
+    "projects": [
+        "E-shop v PHP",
+        "Osobní portfolio",
+        "Analýza dat v Pythonu"
+    ]
+}

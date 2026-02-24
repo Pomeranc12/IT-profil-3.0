@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 0 20px;
+    background-color: #f4f4f4;
+}
+
+.container {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+h1 { color: #333; }
+h2 { color: #555; border-bottom: 2px solid #eee; }
+ul { list-style-type: square; }
